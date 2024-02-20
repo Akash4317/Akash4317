@@ -13,11 +13,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 One of my projects are available at [https://web-dev-ratna-8765-vlsn.vercel.app/](https://web-dev-ratna-8765-vlsn.vercel.app/)
-- 👨‍💻 One of my projects are available at [https://sugar-cosmetic-by-dynamic-hub-4321.netlify.app/](https://sugar-cosmetic-by-dynamic-hub-4321.netlify.app/)
-- 👨‍💻 One of my projects are available at [https://figma-about-by-dynamic-hub-4321.netlify.app/](https://figma-about-by-dynamic-hub-4321.netlify.app/)
-
-- 💬 Ask me about **MERN**
+- 👨‍💻 All of my projects are available at [(https://akash4317.github.io/)](https://akash4317.github.io/)
+  
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me  **Akash.skylifts@gmail.com**
 
